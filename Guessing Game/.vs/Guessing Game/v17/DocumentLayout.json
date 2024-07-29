@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hyder\\Desktop\\Guessing Game\\Guessing Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16E67DD3-AD65-4973-95DE-31E4FFE3CD64}|Guessing Game\\Guessing Game.vcxproj|C:\\Users\\hyder\\Desktop\\Guessing Game\\Guessing Game\\Guessing Game\\GuessGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16E67DD3-AD65-4973-95DE-31E4FFE3CD64}|Guessing Game\\Guessing Game.vcxproj|solutionrelative:Guessing Game\\GuessGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GuessGame.cpp",
+              "DocumentMoniker": "C:\\Users\\hyder\\Desktop\\Guessing Game\\Guessing Game\\Guessing Game\\GuessGame.cpp",
+              "RelativeDocumentMoniker": "Guessing Game\\GuessGame.cpp",
+              "ToolTip": "C:\\Users\\hyder\\Desktop\\Guessing Game\\Guessing Game\\Guessing Game\\GuessGame.cpp",
+              "RelativeToolTip": "Guessing Game\\GuessGame.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAwwDIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-17T00:38:55.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
